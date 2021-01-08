@@ -24,10 +24,10 @@ public class Admob : MonoBehaviour
 	{
 		BtnInterstitial.interactable = false;
 
-		idApp = "ca-app-pub-3940256099942544~3347511713";
-		idBanner = "ca-app-pub-3940256099942544/6300978111";
-		idInterstitial = "ca-app-pub-3940256099942544/1033173712";
-		idReward = "ca-app-pub-3940256099942544/5224354917";
+		idApp = "ca-app-pub-9663835714328679~5106990860";
+		idBanner = "ca-app-pub-9663835714328679/1167745851";
+		//idInterstitial = "ca-app-pub-3940256099942544/1033173712";
+		//idReward = "ca-app-pub-3940256099942544/5224354917";
 
 		adReward = RewardBasedVideoAd.Instance;
 
